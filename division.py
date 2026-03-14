@@ -1,2 +1,5 @@
-def div():
-    print("i am in division")
+def div(a,b):
+    return a/b
+div(10,2)
+
+    
